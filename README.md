@@ -20,6 +20,10 @@ For more information on the courses, contact us at [academy@cleversecorp.com](ma
 
   JS/TS Exercises repo, good for studying solutions
 
+- [Shell (GitBook)](https://cleverse-academy.gitbook.io/shell)
+
+  Shells and how we use them in software development
+
 # Repositories
 
 - [express-demo](https://github.com/CleverseAcademy/express-demo)
